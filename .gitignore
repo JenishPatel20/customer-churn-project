@@ -1,10 +1,20 @@
-.venv/
+# Python
 __pycache__/
 *.pyc
-.DS_Store
+.venv/
+.env
+
+# Data / outputs (DO NOT COMMIT DATASETS)
+data/
 models/
-data/raw/
-data/processed/
+reports/
+
+# Jupyter
 .ipynb_checkpoints/
-.env.idea/
+
+# macOS
+.DS_Store
+
+# PyCharm / IntelliJ
 .idea/
+*.iml
