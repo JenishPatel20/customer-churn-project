@@ -18,3 +18,4 @@ reports/
 # PyCharm / IntelliJ
 .idea/
 *.iml
+.idea/
