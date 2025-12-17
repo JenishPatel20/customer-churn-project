@@ -5,9 +5,9 @@ __pycache__/
 .env
 
 # Data / outputs (DO NOT COMMIT DATASETS)
-data/
-models/
-reports/
+#data/
+#models/
+#reports/
 
 # Jupyter
 .ipynb_checkpoints/
