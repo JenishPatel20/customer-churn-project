@@ -6,8 +6,8 @@ __pycache__/
 
 # Data / outputs (DO NOT COMMIT DATASETS)
 data/
-#models/
-#reports/
+models/
+reports/
 
 # Jupyter
 .ipynb_checkpoints/
