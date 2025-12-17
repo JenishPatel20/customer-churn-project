@@ -5,7 +5,7 @@ __pycache__/
 .env
 
 # Data / outputs (DO NOT COMMIT DATASETS)
-#data/
+data/
 #models/
 #reports/
 
