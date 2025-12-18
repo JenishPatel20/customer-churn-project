@@ -213,11 +213,3 @@ pip install shap
 ```
 
 ---
-
-## License / Academic Integrity
-
-This project is intended for educational use. Datasets remain under their respective licenses/terms from their sources. Please cite dataset sources appropriately in the paper.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
