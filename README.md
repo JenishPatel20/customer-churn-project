@@ -1,4 +1,4 @@
-```markdown
+
 # Customer Churn Prediction (Telco, SaaS, BankChurners) — XGBoost + SHAP
 
 This repository contains an end-to-end churn prediction pipeline evaluated across **three datasets**:
@@ -14,10 +14,10 @@ The project provides:
 
 ---
 
-## Team
+## Team 
 - **Herik Patel**  
 - **Jenish Patel**
-- **Abhi Patel** (ap2566)  
+- **Abhi Patel**
 
 Instructor: **Prof. Dr. Ruixiang Tang**
 
