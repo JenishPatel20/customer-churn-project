@@ -1,0 +1,8 @@
+{
+  "dataset": "saas",
+  "model": "xgb",
+  "n_train": 770,
+  "n_test": 193,
+  "holdout_auc": 0.7147613762486127,
+  "holdout_f1": 0.2962962962962963
+}

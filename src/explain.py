@@ -12,7 +12,7 @@ from .data import load_dataset
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--dataset", default="telco", choices=["telco", "saas"])
+    ap.add_argument("--dataset", default="telco", choices=["telco","saas","bankchurners"])
     ap.add_argument("--model", default="xgb", choices=["logreg", "rf", "xgb"])
     ap.add_argument("--max_rows", type=int, default=2000)
     args = ap.parse_args()

@@ -1,0 +1,8 @@
+{
+  "dataset": "bankchurners",
+  "model": "xgb",
+  "n_train": 8101,
+  "n_test": 2026,
+  "holdout_auc": 0.99328720662054,
+  "holdout_f1": 0.9144634525660964
+}
