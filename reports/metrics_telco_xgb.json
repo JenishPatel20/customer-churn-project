@@ -3,17 +3,6 @@
   "model": "xgb",
   "n_train": 5634,
   "n_test": 1409,
-  "holdout_auc": 0.8452478751711489,
-  "holdout_f1": 0.6255144032921811,
-  "cv_best_auc": 0.8505932968022923,
-  "cv_best_params": {
-    "clf__subsample": 0.9,
-    "clf__reg_lambda": 2.0,
-    "clf__n_estimators": 800,
-    "clf__min_child_weight": 1,
-    "clf__max_depth": 2,
-    "clf__learning_rate": 0.01,
-    "clf__gamma": 0.5,
-    "clf__colsample_bytree": 0.8
-  }
+  "holdout_auc": 0.8241313389650986,
+  "holdout_f1": 0.6096997690531177
 }
